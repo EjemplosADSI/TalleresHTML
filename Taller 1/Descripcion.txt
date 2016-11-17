@@ -1,0 +1,6 @@
+- La pagina debe tener el titulo.
+- Se debe de hacer uso de alt.
+- La imagen debe ser de maximo 300px
+- Se debe de hacer uso de title.
+- Las localizaciones deben de llevar al lugar en google maps.
+- Los link de las redes sociales deben de llevar a las redes.
