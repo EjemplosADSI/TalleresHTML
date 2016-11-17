@@ -1,0 +1,3 @@
+- El formulario debe tener la ruta de envio y el metodo.
+- La lista es un select
+- El formulario debe estar validado
