@@ -1,0 +1,7 @@
+En este ejercicio, creará una página web de muchos elementos incrustados.
+
+- Crear una nueva página en blanco con sólo un encabezado ( "Todo Sobre Goles").
+- Agregue un mapa de Google incrustado que muestre canchas de futbol en Sogamoso.
+- Agregue un widget de Youtube que muestra algún contenido relacionado con los mejores goles.
+- Agrega un widget de reproductor SoundCloud que reproduce una canción relacionada con un goles.
+- Para cada uno de los embeds, agregue comentarios alrededor de ellos para mostrar dónde comienzan y terminan, y agrega un h2 para dividir la página en secciones.
